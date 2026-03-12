@@ -9,7 +9,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2-7C3AED?logo=langchain)](https://langchain-ai.github.io/langgraph/)
 [![Privacy](https://img.shields.io/badge/Privacy-(ε%3D1.0%2C%20δ%3D1e--5)--DP-5C6BC0)](backend/memory/episodic_memory.py)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 > **AI-powered music discovery built on three convictions:**
 > Music is a sequence, not a bag of songs. Your listening history belongs to you, not a recommendation model. And the tools that learn your taste are novel attack surfaces that almost nobody is defending yet.
