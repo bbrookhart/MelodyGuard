@@ -264,7 +264,7 @@ melodyguard/
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/your-org/melodyguard.git
+git clone https://github.com/bbrookhart/melodyguard.git
 cd melodyguard
 cp .env.example .env
 # Fill in all required values in .env
